@@ -1,0 +1,9 @@
+"""
+Word Search
+"""
+
+def main():
+    print("Hello from 20_tries/word_search.py!")
+
+if __name__ == "__main__":
+    main()
