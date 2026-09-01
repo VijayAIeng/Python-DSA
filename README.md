@@ -1,4 +1,4 @@
-# Data Structures and Algorithms From Scratch 
+# Data Structures and Algorithms From Scratch
 
 A complete hands-on exploration of Data Structures and Algorithms using Python, starting from fundamental programming concepts and complexity analysis and progressing toward advanced data structures, algorithms, optimization techniques, and algorithm engineering.
 
